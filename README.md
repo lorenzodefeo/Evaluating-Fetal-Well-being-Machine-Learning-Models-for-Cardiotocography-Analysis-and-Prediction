@@ -1,3 +1,4 @@
+# Evaluating Fetal Well-being: Machine Learning Models for Cardiotocography Analysis and Prediction
 Since its introduction in the 1970s, cardiotocography (CTG) has been the main tool for assessing fetal condition, with the main goal of reducing perinatal mortality from the 28th week of gestation to the first week of extrauterine life. The CTG presents two tracings:
 - The first represents the fetal heart rate (FHR).
 - The second one illustrates uterine contractions (UC - Uterine Contranction).
